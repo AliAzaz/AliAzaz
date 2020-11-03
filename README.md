@@ -3,4 +3,6 @@
 
 I'm an Android Application Developer in [@AKU](https://www.aku.edu/Pages/home.aspx), Opensource contributor, Writer, Speaker, and Programmer😎
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AliAzaz&count_private=true&show_icons=true&theme=radical" alt='aliazaz' /> </p>
+
 Connect with me on socials [Medium](https://medium.com/@ali.azaz.alam), [Twitter](https://twitter.com/AliAzazAlam1), [LinkedIN](https://www.linkedin.com/in/aliazazalam), [StackOverFLow](https://stackoverflow.com/users/9764941/ali-azaz-alam) and [AndroidArsenal](https://android-arsenal.com/user/AliAzaz)
