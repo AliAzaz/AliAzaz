@@ -7,16 +7,65 @@
 
 ***Glad to see you here!*** [![Visits Badge](https://badges.pufler.dev/visits/aliazaz/aliazaz)](https://github.com/aliazaz)
 
-<img alt="Profile Pic" src="https://raw.githubusercontent.com/AliAzaz/AliAzaz/master/images/speaking_iba_01.jpg" height="400" width="750" />
+I'm an Android Application Engineer at [@VeeMedInc](https://veemed.com/), Writer, Opensource contributor, Technical Speaker, Programmer and Traveller😎.
 
-I'm an Android Application Developer in [@AKU](https://www.aku.edu/Pages/home.aspx), Opensource contributor, Writer, Speaker, and Programmer😎
+As a software engineer, I quote Sir Henry Royce:  **"Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it.”**
 
-|<img src="https://github-readme-stats.vercel.app/api?username=AliAzaz&theme=dracula&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aliazaz"/>|
-|---|---|
+<img alt="Coder gif" align="right" alt="GIF" src="https://github.com/AliAzaz/AliAzaz/blob/master/coder.gif?raw=true" width="408" height="318" />
 
+</br>
+
+**Talking about Personal Stuffs:**
+
+- 🚀 I’m currently learning Data Mining and practicing on [Kaggle](https://www.kaggle.com/aliazazalam)
+- 💬 Ask me about anything, I am happy to help
+- 📝 I write articles on [medium](https://medium.com/@ali.azaz.alam) & mostly published in most renonwned publications including AndroidPub, ProAndroidDev and KTAcademy.
+- 📧 Subscribe on my [android newsletter](https://aliazazalam.substack.com/welcome) 
+
+</br></br>
 
 ---
 
 **Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
 
 ---
+
+<img src="https://github-readme-stats.vercel.app/api?username=AliAzaz&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" width="408" align="right"/>
+
+</br>
+
+**My OpenSource Contributions:**
+
+
+I try my best to work for community, to help my community in every aspect of technical issues. I'm active opensource contributor through StackOverFlow and Github. Listing few contributions in most renowned Github Projects:
+
+- [CatLoadingView](https://stackoverflow.com/story/ali-azaz-alam)
+- [SplashScreen](https://github.com/wajahatkarim3/SplashScreen)
+- [TimberX](https://github.com/naman14/TimberX)
+- [DropBoxSDKJava](https://github.com/dropbox/dropbox-sdk-java)
+- [BetaFactory-MarsRoverAndroid](https://github.com/betafactory/MarsRoverAndroid)
+- [GoogleCodeLab-MLKit-Android](https://github.com/googlecodelabs/mlkit-android)
+- [BlackBoxVision-DateTime-Picker](https://github.com/BlackBoxVision/datetimepicker-edittext)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aliazaz" align="right" width="408"/>
+
+</br>
+
+**My Android Libraries**
+
+
+- [EditTextPicker](https://android-arsenal.com/details/1/7671)
+- [Powerful Android Validator Crawler](https://android-arsenal.com/details/1/8077)
+
+</br>
+
+**Events I Attended:**
+
+
+I've attended multiple Google Developers Group events in Pakistan as a Mentor and Technical Speaker. These are the events:
+
+- **Mentor** - GoogleIOExtended2021 organized by GDGKolachi
+- **Technical Speaker** - Android BootCamp 2021 organized by Google DSCs in Pakistan
+- **Technical Speaker** - DEVCamp 2019 Pakistan organized by Google DSC IBA
+- **Mentor** - GDG DevFest2019 organized by GDGKolachi
+- **Mentor** - Kotlin Everywhere 2019 organized by Android Pakistan Community
