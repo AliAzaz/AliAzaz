@@ -7,7 +7,7 @@
 
 ***Glad to see you here!*** [![Visits Badge](https://badges.pufler.dev/visits/aliazaz/aliazaz)](https://github.com/aliazaz)
 
-I'm an Android Application Engineer at [@VeeMedInc](https://veemed.com/), Writer, Opensource contributor, Technical Speaker, Programmer and Traveller😎.
+I'm an Android Application Engineer at [@VeeOneHealth](https://veeonehealth.com/), Opensource contributor, Technical Writer & Speaker, Programmer, and a Traveller😎.
 
 As a software engineer, I quote Sir Henry Royce:  **"Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it.”**
 
@@ -15,7 +15,7 @@ As a software engineer, I quote Sir Henry Royce:  **"Strive for perfection in ev
 
 </br>
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuffs**
 
 - 🚀 I’m currently learning Data Mining and practicing on [Kaggle](https://www.kaggle.com/aliazazalam)
 - 💬 Ask me about anything, I am happy to help
@@ -34,8 +34,7 @@ As a software engineer, I quote Sir Henry Royce:  **"Strive for perfection in ev
 
 </br>
 
-**My OpenSource Contributions:**
-
+**✍ My OpenSource Contributions**
 
 I try my best to work for community, to help my community in every aspect of technical issues. I'm active opensource contributor through StackOverFlow and Github. Listing few contributions in most renowned Github Projects:
 
@@ -51,19 +50,24 @@ I try my best to work for community, to help my community in every aspect of tec
 
 </br>
 
-**My Android Libraries**
-
+**👨‍💻 My Android Libraries**
 
 - [EditTextPicker](https://android-arsenal.com/details/1/7671)
 - [Powerful Android Validator Crawler](https://android-arsenal.com/details/1/8077)
 
 </br>
 
-**Events I Attended:**
+**👏 Repository selected in Google Dev Library**
 
+- [Pixabay Gallery App](https://devlibrary.withgoogle.com/products/android/repos/AliAzaz-PixabayGalleryApp)
 
-I've attended multiple Google Developers Group events in Pakistan as a Mentor and Technical Speaker. These are the events:
+</br>
 
+**✌ Events I Attended**
+
+I've attended many Google Developers Group events in Pakistan as being a Mentor and Technical Speaker, in which a few events listed here:
+
+- **Mentor** - HeckFest22 organized by Google DSCs in Karachi, Pakistan 
 - **Mentor** - GoogleIOExtended2021 organized by GDGKolachi
 - **Technical Speaker** - Android BootCamp 2021 organized by Google DSCs in Pakistan
 - **Technical Speaker** - DEVCamp 2019 Pakistan organized by Google DSC IBA
