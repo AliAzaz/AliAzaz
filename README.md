@@ -1,4 +1,4 @@
-## Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ali Azaz Alam
+## Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Ali Azaz Alam
 [![LinkedIn Badge](https://img.shields.io/badge/-aliazazalam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliazazalam/)](https://www.linkedin.com/in/aliazazalam)
 [![Twitter Badge](https://img.shields.io/badge/-aliazaz-gray?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/AliAzazAlam1)](https://twitter.com/AliAzazAlam1)
 [![Medium Badge](https://img.shields.io/badge/-aliazazalam-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@ali.azaz.alam)](https://medium.com/@ali.azaz.alam)
@@ -38,7 +38,8 @@ As a software engineer, I quote Sir Henry Royce:  **"Strive for perfection in ev
 
 I try my best to work for community, to help my community in every aspect of technical issues. I'm active opensource contributor through StackOverFlow and Github. Listing few contributions in most renowned Github Projects:
 
-- [CatLoadingView](https://stackoverflow.com/story/ali-azaz-alam)
+- [MUDF-android-viewer](https://github.com/ArtifexSoftware/mupdf-android-viewer)
+- [CatLoadingView](https://github.com/AliAzaz/CatLoadingView)
 - [SplashScreen](https://github.com/wajahatkarim3/SplashScreen)
 - [TimberX](https://github.com/naman14/TimberX)
 - [DropBoxSDKJava](https://github.com/dropbox/dropbox-sdk-java)
@@ -63,10 +64,24 @@ I try my best to work for community, to help my community in every aspect of tec
 
 </br>
 
+**🧑‍🏫 Opensource Projects**
+
+I've many opensource projects in which I'm mentioning a few of them.
+
+- [Github User Gallary App](https://github.com/AliAzaz/GithubUsersGalleryApp)
+- [Hacktoberfest 2021](https://github.com/AliAzaz/Hacktoberfest2021)
+- [Tkinter Python](https://github.com/AliAzaz/TKINTER_PYTHON)
+- [The MovieDB App](https://github.com/AliAzaz/TheMovieDBApp)
+- [Android Secret Image Taker at background](https://github.com/AliAzaz/AndroidSecretImageTaker)
+- [QR Scanner + QR Generator](https://github.com/AliAzaz/QR-App-Scanner-Generator-DataBinding)
+
+</br>
+
 **✌ Events I Attended**
 
 I've attended many Google Developers Group events in Pakistan as being a Mentor and Technical Speaker, in which a few events listed here:
 
+- **Technical Speaker** - The Future of Android Development organized by Google DSCs in Karachi, Pakistan
 - **Mentor** - HeckFest22 organized by Google DSCs in Karachi, Pakistan 
 - **Mentor** - GoogleIOExtended2021 organized by GDGKolachi
 - **Technical Speaker** - Android BootCamp 2021 organized by Google DSCs in Pakistan
