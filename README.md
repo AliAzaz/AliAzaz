@@ -5,9 +5,9 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-aliazaz-gray?style=flat&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/story/ali-azaz-alam)](https://stackoverflow.com/story/ali-azaz-alam)
 [![AndroidArsenal Badge](https://img.shields.io/badge/androidarsenal-aliazaz-green)](https://android-arsenal.com/user/AliAzaz)
 
-***Glad to see you here!*** [![Visits Badge](https://badges.pufler.dev/visits/aliazaz/aliazaz)](https://github.com/aliazaz)
+***Glad to see you here!***
 
-I'm an Android Application Engineer at [@VeeOneHealth](https://veeonehealth.com/), Opensource contributor, Technical Writer & Speaker, Programmer, and a Traveller😎.
+I'm an Android Application Engineer at [@VeeOneHealth](https://veeonehealth.com/), Opensource contributor, Technical Writer, Technical Speaker, Programmer, and a Traveller😎.
 
 As a software engineer, I quote Sir Henry Royce:  **"Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it.”**
 
@@ -68,6 +68,8 @@ I try my best to work for community, to help my community in every aspect of tec
 
 I've many opensource projects in which I'm mentioning a few of them.
 
+- [Interview Algorithms](https://github.com/AliAzaz/InterviewAlgorithms)
+- [Currency Exchange App](https://github.com/AliAzaz/CurrencyExchangeApp)
 - [Github User Gallary App](https://github.com/AliAzaz/GithubUsersGalleryApp)
 - [Hacktoberfest 2021](https://github.com/AliAzaz/Hacktoberfest2021)
 - [Tkinter Python](https://github.com/AliAzaz/TKINTER_PYTHON)
@@ -81,6 +83,7 @@ I've many opensource projects in which I'm mentioning a few of them.
 
 I've attended many Google Developers Group events in Pakistan as being a Mentor and Technical Speaker, in which a few events listed here:
 
+- **Technical Speaker** - Geekle Android Global Summit 2022
 - **Technical Speaker** - The Future of Android Development organized by Google DSCs in Karachi, Pakistan
 - **Mentor** - HeckFest22 organized by Google DSCs in Karachi, Pakistan 
 - **Mentor** - GoogleIOExtended2021 organized by GDGKolachi
