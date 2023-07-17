@@ -36,7 +36,7 @@ As a software engineer, I quote Sir Henry Royce:  **"Strive for perfection in ev
 
 **✍ My OpenSource Contributions**
 
-I try my best to work for community, to help my community in every aspect of technical issues. I'm active opensource contributor through StackOverFlow and Github. Listing few contributions in most renowned Github Projects:
+I work for the community, to help my community in every aspect of technical issues. I'm an active open-source contributor through StackOverflow and Github. Listing a few contributions to the most renowned GitHub Projects:
 
 - [MUDF-android-viewer](https://github.com/ArtifexSoftware/mupdf-android-viewer)
 - [CatLoadingView](https://github.com/AliAzaz/CatLoadingView)
@@ -66,8 +66,9 @@ I try my best to work for community, to help my community in every aspect of tec
 
 **🧑‍🏫 Opensource Projects**
 
-I've many opensource projects in which I'm mentioning a few of them.
+I've many open-source projects which I'm mentioning a few.
 
+- [Started-With-Compose](https://github.com/AliAzaz/StartedWithCompose)
 - [Interview Algorithms](https://github.com/AliAzaz/InterviewAlgorithms)
 - [Currency Exchange App](https://github.com/AliAzaz/CurrencyExchangeApp)
 - [Github User Gallary App](https://github.com/AliAzaz/GithubUsersGalleryApp)
@@ -83,6 +84,8 @@ I've many opensource projects in which I'm mentioning a few of them.
 
 I've attended many Google Developers Group events in Pakistan as being a Mentor and Technical Speaker, in which a few events listed here:
 
+- **Technical Speaker** - Android Flash organized by Google DSCs in Karachi, Pakistan
+- **Android Jetpack Compose Workshop** - Android Seekho Season2 organized by GDG Live Pakistan
 - **Technical Speaker** - Geekle Android Global Summit 2022
 - **Technical Speaker** - The Future of Android Development organized by Google DSCs in Karachi, Pakistan
 - **Mentor** - HeckFest22 organized by Google DSCs in Karachi, Pakistan 
